@@ -1,0 +1,52 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rlgn",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rlgn"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "rlgn",
+      "files": [
+        "stvol.tv_--_rlgn__01.01"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.rlgn": "",
+      "item.ravecraft.rlgn": "Rlgn",
+      "item.ravecraft.rlgn.desc": "raveCraft set - 1"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ravecraft",
+    "modName": "RaveCraft",
+    "version": "1.0.0",
+    "author": "Shuri, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.ravecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

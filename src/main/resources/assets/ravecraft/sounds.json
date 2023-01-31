@@ -1,0 +1,11 @@
+{
+  "rlgn": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "ravecraft:stvol.tv_--_rlgn__01.01",
+        "stream": true
+      }
+    ]
+  }
+}

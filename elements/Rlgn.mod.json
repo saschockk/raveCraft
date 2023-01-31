@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "set1",
+    "name": "Rlgn",
+    "description": "raveCraft set - 1",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:rlgn"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
